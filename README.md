@@ -7,6 +7,8 @@ use [ncnn](https://github.com/Tencent/ncnn) in Android and iOS
 Reference
 
 https://blog.csdn.net/wmymo/article/details/100557266
-http://blog.csdn.net/best_coder/article/details/76201275  
+
+http://blog.csdn.net/best_coder/article/details/76201275
+  
 https://github.com/Tencent/ncnn/issues/24
 
